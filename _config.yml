@@ -1,11 +1,11 @@
 # Site settings
-title: 游子诗 Blog
-SEOTitle: 游子诗 
+title: 游子诗
+SEOTitle: 游子诗 Blog
 header-img: img/post-bg-desk.jpg
 email: lvzhilong_wait@163com
-description: "Every failure is leading towards success."
+description: "First Step."
 keyword: "Blog, 游子诗,iOS, Apple, iPhone"
-url: "http://youzishi.cn"          # your host, for absolute URL
+url: "http://youzishi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# weibo_username:     youzishi
+#zhihu_username:     youzishi
+github_username:    youzishi
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
